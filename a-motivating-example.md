@@ -1,4 +1,4 @@
-# A Motivating Example
+# A Running Example
 
 |  |  |  |
 | :--- | :--- | :--- |
