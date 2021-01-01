@@ -14,7 +14,11 @@ Machine Learning systems have become exceptionally good at fitting trends/associ
 
 
 
-Take this data set for house price vs. 
+Take this toy  dataset for house price vs. number of bedrooms: 
+
+![](.gitbook/assets/image.png)
+
+In the graphical notation 
 
 
 
