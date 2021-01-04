@@ -14,13 +14,17 @@ Machine Learning systems have become exceptionally good at fitting trends/associ
 
 
 
-Take this toy  dataset for house price vs. number of bedrooms: 
+Take this toy dataset for house price vs. number of bedrooms collected by an analyst: 
 
 ![](.gitbook/assets/image.png)
 
-In the graphical notation 
+In the graphical notation \(to be introduced more formally later\), if our mental model were:
 
+![](.gitbook/assets/screen-shot-2021-01-04-at-12.20.17-pm.png)
 
+i.e. that the number of bedrooms \(B\) is the only cause of house price \(P\),  then fitting an ML model to the above data would give us a very counterintuitive result - houses get cheaper as number of bedrooms increase!
+
+However, a correct causal 
 
 
 
