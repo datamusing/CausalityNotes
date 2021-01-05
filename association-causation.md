@@ -20,7 +20,7 @@ Take this toy dataset for house price vs. number of bedrooms collected by an ana
 
 In the graphical notation \(to be introduced more formally later\), if our mental model were:
 
-![](.gitbook/assets/screen-shot-2021-01-04-at-12.20.17-pm.png)
+![An Erroneous Causal Structure for the house price data set](.gitbook/assets/image%20%283%29.png)
 
 i.e. that the number of bedrooms \(B\) is the only cause of house price \(P\),  then fitting an ML model to the above data would give us a very counterintuitive result - houses get cheaper as number of bedrooms increase!
 

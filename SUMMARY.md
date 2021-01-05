@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Why these notes?](README.md)
+* [Causality For The Impatient](README.md)
 * [Association != Causation](association-causation.md)
-* [A Running Example](a-motivating-example.md)
+* [A Numerical Example](a-motivating-example.md)
 

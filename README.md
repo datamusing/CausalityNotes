@@ -1,4 +1,8 @@
-# Why these notes?
+---
+description: 'Sudeep Das, PhD'
+---
+
+# Causality For The Impatient
 
 These notes contain a brisk introduction to the main concepts in Causal Inference. 
 

@@ -1,4 +1,4 @@
-# A Running Example
+# A Numerical Example
 
 |  |  |  |
 | :--- | :--- | :--- |
